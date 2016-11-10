@@ -25,6 +25,9 @@ Recommended other requirements:
   * In IntelliJ IDE, File > Project structure > Modules > Dependencies tab > + button > Jars or directories...
 
 4. Set the environment variable DBPASSWORD to your MySQL password
+
+  * You can set variables in the Run... / Run configurations... menu
+
 5. Edit file AirlineCustomerClient.java to fill in your hawkid where indicated
 6. Run
 
